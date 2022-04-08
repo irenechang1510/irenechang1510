@@ -22,6 +22,7 @@ I'm Irene and I'm a data, statistics, architecture and kpop enthusiast
 - 😄 Pronouns: she/her
 - 👩‍💻 I am passionate about advanced analytics to derive actionable insights and optimization of machine learning algorithms.
 - 🌱 Currently learning PyTorch, A/B testing, Deep Neural Network
+- 🔭 I’m currently working on my own website, the next project
 - 📫 How to reach me: [email](mailto:binh.chang@tufts.edu). Happy to connect and/or collaborate on a project!
 
 ![](https://komarev.com/ghpvc/?username=irenechang1510&color=A4CEE5)
