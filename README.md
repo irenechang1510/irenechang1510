@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **irenechang1510/irenechang1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Irene and I'm a data, statistics, architecture and kpop enthusiast
+
+- 😄 Pronouns: she/her
+- 👩‍💻 I am passionate about advanced analytics to derive actionable insights and optimization of machine learning algorithms.
+- 🌱 Currently learning PyTorch, A/B testing, Deep Neural Network
+- 📫 How to reach me: [email](mailto:binh.chang@tufts.edu). Happy to connect and/or collaborate on a project!
+
+![](https://komarev.com/ghpvc/?username=irenechang1510&color=A4CEE5)
