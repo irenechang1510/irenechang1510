@@ -1,6 +1,6 @@
 ### 👋  ~ Hi ~ 👋 
 
-![](https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/5540b367737027abdae6ef05bbc2e475.gif)
+[![](https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/5540b367737027abdae6ef05bbc2e475.gif)](https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/5540b367737027abdae6ef05bbc2e475.gif)
 
 <!--
 **irenechang1510/irenechang1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
