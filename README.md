@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 I'm Irene and I'm a data, statistics, architecture and kpop enthusiast
 
 - 😄 Pronouns: she/her
-- 👩‍💻 I am passionate about advanced analytics to derive actionable insights and optimization of machine learning algorithms.
-- 🌱 Currently learning PyTorch, A/B testing, Deep Neural Network
+- 👩‍💻 I am passionate about advanced analytics to derive actionable insights and causal machine learning algorithms and recommender systems.
 - 🔭 I’m currently working on my own website, the next project
 - 📫 How to reach me: [email](mailto:binh.chang@tufts.edu). Happy to connect and/or collaborate on a project!
 
