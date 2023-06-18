@@ -24,4 +24,4 @@ I'm Irene and I'm a data, statistics, architecture and kpop enthusiast
 - 🔭 I’m currently working on my own website, the next project
 - 📫 How to reach me: [email](mailto:binh.chang@tufts.edu). Happy to connect and/or collaborate on a project!
 
-![](https://komarev.com/ghpvc/?username=irenechang1510&color=A4CEE5)
+https://github.com/irenechang1510/bridge-damage-detection/blob/main/final-report-capstone.pdf
