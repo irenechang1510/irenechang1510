@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Irene \
+I'm Irene
 
 - 😄 Pronouns: she/her
 - 👩‍💻 I am passionate about advanced analytics to derive actionable insights and causal machine learning algorithms and recommender systems.
